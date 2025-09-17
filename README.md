@@ -1,6 +1,6 @@
 # Git Practice
 ## Article Link
-One website that I found interesting was [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) by Dan McKinley.
+One article that I found interesting was [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) by Dan McKinley.
 
 ### What’s Interesting About Choose Boring Technology
 
